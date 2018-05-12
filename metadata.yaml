@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9468'
     url: http://www.gutenberg.org/2009/agents/9468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20706#Reisherinneringen-van-een-bestuursambtenaar-in-Zuid-CelebesDe-Aarde-en-haar-Volken-1918
 gutenberg_issued: '2007-02-27'
 gutenberg_type: Text
 identifiers:
